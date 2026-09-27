@@ -1,0 +1,8663 @@
+[
+  {
+    "id": "PORT-MUNDRA",
+    "display_name": "Port of Mundra",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 22.75,
+    "lon": 69.7,
+    "country": "India",
+    "importance": 10,
+    "strategic_role": "India's largest private container port",
+    "parent_city": "Mundra",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-BEDI",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-KANDLA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-SIKKA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-OKHA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MITHAPUR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-GANDHIDHAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MORBI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMNAGAR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-HAZIRA",
+    "display_name": "Port of Hazira",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 21.1,
+    "lon": 72.6,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Deep-water port serving Surat industrial belt",
+    "parent_city": "Hazira",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-VERAVAL",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-KANDLA",
+    "display_name": "Deendayal Port (Kandla)",
+    "aliases": [
+      "Deendayal"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 23.01,
+    "lon": 70.22,
+    "country": "India",
+    "importance": 9,
+    "strategic_role": "Major cargo handling hub for West/North India",
+    "parent_city": "Kandla",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-MUNDRA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-SIKKA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-OKHA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-BEDI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MITHAPUR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-GANDHIDHAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MORBI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMNAGAR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-PIPAVAV",
+    "display_name": "Port of Pipavav",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 20.9,
+    "lon": 71.5,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Strategic container gateway in Saurashtra",
+    "parent_city": "Pipavav",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-DHAMRA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-VERAVAL",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-DAHEJ",
+    "display_name": "Port of Dahej",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 21.67,
+    "lon": 72.58,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Chemical and bulk cargo gateway",
+    "parent_city": "Dahej",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-SIKKA",
+    "display_name": "Port of Sikka",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 22.43,
+    "lon": 69.82,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Petroleum and liquid cargo hub",
+    "parent_city": "Jamnagar",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-MITHAPUR",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-OKHA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-MUNDRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KANDLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-VERAVAL",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-BEDI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-GANDHIDHAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MORBI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMNAGAR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-OKHA",
+    "display_name": "Port of Okha",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 22.47,
+    "lon": 69.07,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Strategic gateway for North Saurashtra",
+    "parent_city": "Okha",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-SIKKA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-BEDI",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-MUNDRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KANDLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MITHAPUR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-GANDHIDHAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMNAGAR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-MAGDALLA",
+    "display_name": "Port of Magdalla",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 21.13,
+    "lon": 72.72,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Industrial port serving Surat",
+    "parent_city": "Surat",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-VERAVAL",
+    "display_name": "Port of Veraval",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 20.91,
+    "lon": 70.36,
+    "country": "India",
+    "importance": 5,
+    "strategic_role": "Secondary gateway for Saurashtra",
+    "parent_city": "Veraval",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-SIKKA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMNAGAR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-BEDI",
+    "display_name": "Port of Bedi",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 22.5,
+    "lon": 70.03,
+    "country": "India",
+    "importance": 5,
+    "strategic_role": "Bulk cargo terminal in Jamnagar",
+    "parent_city": "Jamnagar",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-OKHA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-MUNDRA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-KANDLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-SIKKA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MITHAPUR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-GANDHIDHAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MORBI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMNAGAR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-NAVBHAVNAGAR",
+    "display_name": "New Port Bhavnagar",
+    "aliases": [
+      "New"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 21.75,
+    "lon": 72.2,
+    "country": "India",
+    "importance": 5,
+    "strategic_role": "Regional bulk gateway",
+    "parent_city": "Bhavnagar",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-HALDIA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KADI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-MITHAPUR",
+    "display_name": "Port of Mithapur",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 22.42,
+    "lon": 68.99,
+    "country": "India",
+    "importance": 5,
+    "strategic_role": "Chemical export gateway",
+    "parent_city": "Mithapur",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-HALDIA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-SIKKA",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-MUNDRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KANDLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-OKHA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-BEDI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-GANDHIDHAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMNAGAR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-AHMEDABAD",
+    "display_name": "Ahmedabad Intl Airport",
+    "aliases": [
+      "Ahmedabad"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 23.07,
+    "lon": 72.63,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Primary air hub for Gujarat",
+    "parent_city": "Ahmedabad",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KADI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-SURAT",
+    "display_name": "Surat Air Cargo Terminal",
+    "aliases": [
+      "Surat"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 21.11,
+    "lon": 72.74,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Export gateway for gems and textiles",
+    "parent_city": "Surat",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-VADODARA",
+    "display_name": "Vadodara Cargo Hub",
+    "aliases": [
+      "Vadodara"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 22.33,
+    "lon": 73.22,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Logistics node for Central Gujarat",
+    "parent_city": "Vadodara",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KADI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-RAJKOT",
+    "display_name": "Rajkot Cargo Hub",
+    "aliases": [
+      "Rajkot"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 22.31,
+    "lon": 70.78,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Air gateway for Saurashtra engineering belt",
+    "parent_city": "Rajkot",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "PORT-MUNDRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KANDLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-SIKKA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-OKHA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-VERAVAL",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-BEDI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-GANDHIDHAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MORBI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMNAGAR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-BHAVNAGAR",
+    "display_name": "Bhavnagar Air Cargo",
+    "aliases": [
+      "Bhavnagar"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 21.75,
+    "lon": 72.19,
+    "country": "India",
+    "importance": 5,
+    "strategic_role": "Regional air link for Saurashtra",
+    "parent_city": "Bhavnagar",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KADI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-JAMNAGAR",
+    "display_name": "Jamnagar Air Base/Cargo",
+    "aliases": [
+      "Jamnagar"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 22.48,
+    "lon": 70.01,
+    "country": "India",
+    "importance": 5,
+    "strategic_role": "Strategic air gateway for Jamnagar industrial belt",
+    "parent_city": "Jamnagar",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "PORT-MUNDRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KANDLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-SIKKA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-OKHA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-VERAVAL",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-BEDI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MITHAPUR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-GANDHIDHAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MORBI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMNAGAR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-BHUJ",
+    "display_name": "Bhuj Cargo Hub",
+    "aliases": [
+      "Bhuj"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 23.28,
+    "lon": 69.67,
+    "country": "India",
+    "importance": 5,
+    "strategic_role": "Air link for Kutch logistics corridor",
+    "parent_city": "Bhuj",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "PORT-MUNDRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KANDLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-SIKKA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-OKHA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-BEDI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MITHAPUR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-GANDHIDHAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MORBI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMNAGAR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-AHMEDABAD",
+    "display_name": "Ahmedabad Freight Terminal",
+    "aliases": [
+      "Ahmedabad"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 23.03,
+    "lon": 72.58,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Western DFC junction",
+    "parent_city": "Ahmedabad",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "RAIL-ITARSI",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-REWARI",
+        "mode": "rail"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KADI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-VADODARA",
+    "display_name": "Vadodara Rail Junction",
+    "aliases": [
+      "Vadodara"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 22.31,
+    "lon": 73.18,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Critical junction on Mumbai-Delhi line",
+    "parent_city": "Vadodara",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KADI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-SURAT",
+    "display_name": "Surat Freight Junction",
+    "aliases": [
+      "Surat"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 21.2,
+    "lon": 72.83,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Major textile and diamond rail gateway",
+    "parent_city": "Surat",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-RAJKOT",
+    "display_name": "Rajkot Rail Hub",
+    "aliases": [
+      "Rajkot"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 22.3,
+    "lon": 70.81,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Freight node for Saurashtra region",
+    "parent_city": "Rajkot",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-MUNDRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KANDLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-SIKKA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-OKHA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-VERAVAL",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-BEDI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-GANDHIDHAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MORBI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMNAGAR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-GANDHIDHAM",
+    "display_name": "Gandhidham Rail Hub",
+    "aliases": [
+      "Gandhidham"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 23.08,
+    "lon": 70.13,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Strategic rail junction serving Mundra and Kandla",
+    "parent_city": "Gandhidham",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-MUNDRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KANDLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-SIKKA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-OKHA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-BEDI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MITHAPUR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MORBI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMNAGAR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-BHARUCH",
+    "display_name": "Bharuch Rail Junction",
+    "aliases": [
+      "Bharuch"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 21.71,
+    "lon": 72.99,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Critical freight junction for chemical belt",
+    "parent_city": "Bharuch",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-SANAND",
+    "display_name": "Sanand Industrial Cluster",
+    "aliases": [
+      "Sanand"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 22.99,
+    "lon": 72.38,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Automotive manufacturing zone",
+    "parent_city": "Sanand",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MORBI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KADI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-VAPI",
+    "display_name": "Vapi Industrial Belt",
+    "aliases": [
+      "Vapi"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 20.37,
+    "lon": 72.91,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Chemical and pharma manufacturing cluster",
+    "parent_city": "Vapi",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KALYAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHIWANDI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TALOJA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-MORBI",
+    "display_name": "Morbi Ceramic Cluster",
+    "aliases": [
+      "Morbi"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 22.82,
+    "lon": 70.83,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "World's largest ceramic manufacturing hub",
+    "parent_city": "Morbi",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-MUNDRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KANDLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-SIKKA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-BEDI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-GANDHIDHAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KADI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-JAMNAGAR",
+    "display_name": "Jamnagar Petrochemical Belt",
+    "aliases": [
+      "Jamnagar"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 22.47,
+    "lon": 70.06,
+    "country": "India",
+    "importance": 9,
+    "strategic_role": "World's largest refining hub",
+    "parent_city": "Jamnagar",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-MUNDRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KANDLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-SIKKA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-OKHA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-VERAVAL",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-BEDI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MITHAPUR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAJKOT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-GANDHIDHAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MORBI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-BHARUCH",
+    "display_name": "Bharuch Industrial SEZ",
+    "aliases": [
+      "Bharuch"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 21.71,
+    "lon": 72.99,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Major chemical and fertilizer hub",
+    "parent_city": "Bharuch",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-ANKLESHWAR",
+    "display_name": "Ankleshwar Chemical Zone",
+    "aliases": [
+      "Ankleshwar"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 21.62,
+    "lon": 73.0,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Asia's largest chemical industrial estate",
+    "parent_city": "Ankleshwar",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-HAZIRA",
+    "display_name": "Hazira Industrial Area",
+    "aliases": [
+      "Hazira"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 21.1,
+    "lon": 72.65,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Massive steel and manufacturing cluster",
+    "parent_city": "Hazira",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-KADI",
+    "display_name": "Kadi Industrial Belt",
+    "aliases": [
+      "Kadi"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 23.3,
+    "lon": 72.33,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Manufacturing hub for North Gujarat",
+    "parent_city": "Kadi",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MORBI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HALOL",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-HALOL",
+    "display_name": "Halol Manufacturing Hub",
+    "aliases": [
+      "Halol"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 22.5,
+    "lon": 73.47,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Automotive and general engineering cluster",
+    "parent_city": "Halol",
+    "region": "Gujarat",
+    "connections": [
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DAHEJ",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-VADODARA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SANAND",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHARUCH",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ANKLESHWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KADI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-PUNE",
+    "display_name": "Pune Air Cargo Hub",
+    "aliases": [
+      "Pune"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 18.58,
+    "lon": 73.92,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Export gateway for auto/engineering",
+    "parent_city": "Pune",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-JAIGAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KALYAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-CHAKAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHIWANDI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TALOJA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HINJEWADI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-NAGPUR",
+    "display_name": "Nagpur MIHAN Cargo Hub",
+    "aliases": [
+      "Nagpur"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 21.09,
+    "lon": 79.05,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Strategic multi-modal hub",
+    "parent_city": "Nagpur",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "RAIL-NAGPUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BUTIBORI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-AURANGABAD",
+    "display_name": "Aurangabad Air Hub",
+    "aliases": [
+      "Aurangabad"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 19.86,
+    "lon": 75.4,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Logistics node for DMIC corridor",
+    "parent_city": "Aurangabad",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHUSAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-AURANGABAD",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-NASHIK",
+    "display_name": "Nashik Air Cargo Terminal",
+    "aliases": [
+      "Nashik"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 20.12,
+    "lon": 73.91,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Air gateway for Nashik industrial belt",
+    "parent_city": "Nashik",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AURANGABAD",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KALYAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-CHAKAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHIWANDI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TALOJA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-AURANGABAD",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HINJEWADI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-RATNAGIRI",
+    "display_name": "Port of Ratnagiri",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 17.0,
+    "lon": 73.28,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Strategic coastal shipping hub",
+    "parent_city": "Ratnagiri",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "PORT-KARWAR",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-JAIGAD",
+        "mode": "sea"
+      },
+      {
+        "to": "RAIL-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-DHARAMTAR",
+    "display_name": "Port of Dharamtar",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 18.82,
+    "lon": 73.03,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Bulk cargo gateway near Mumbai",
+    "parent_city": "Dharamtar",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "PORT-VISAKHAPATNAM",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-PARADIP",
+        "mode": "sea"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-JAIGAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KALYAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-CHAKAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHIWANDI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TALOJA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HINJEWADI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-JAIGAD",
+    "display_name": "Port of Jaigad",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 17.3,
+    "lon": 73.2,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Deep-water private port for Central Maharashtra",
+    "parent_city": "Jaigad",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "PORT-RATNAGIRI",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-GANGAVARAM",
+        "mode": "sea"
+      },
+      {
+        "to": "AIR-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "DC-CHAKAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HINJEWADI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-PUNE",
+    "display_name": "Pune Logistics Terminal",
+    "aliases": [
+      "Pune"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 18.52,
+    "lon": 73.85,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Intermodal hub for Western Maharashtra",
+    "parent_city": "Pune",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "AIR-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-RATNAGIRI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-JAIGAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KALYAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-CHAKAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHIWANDI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TALOJA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HINJEWADI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-NAGPUR",
+    "display_name": "Nagpur Freight Junction",
+    "aliases": [
+      "Nagpur"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 21.15,
+    "lon": 79.08,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "North-South/East-West rail crossing",
+    "parent_city": "Nagpur",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "RAIL-ITARSI",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-BILASPUR",
+        "mode": "rail"
+      },
+      {
+        "to": "AIR-NAGPUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BUTIBORI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-BHUSAWAL",
+    "display_name": "Bhusawal Rail Junction",
+    "aliases": [
+      "Bhusawal"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 21.05,
+    "lon": 75.78,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Major freight consolidation point",
+    "parent_city": "Bhusawal",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "AIR-AURANGABAD",
+        "mode": "road"
+      },
+      {
+        "to": "DC-AURANGABAD",
+        "mode": "road"
+      },
+      {
+        "to": "DC-PITHAMPUR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-SOLAPUR",
+    "display_name": "Solapur Freight Terminal",
+    "aliases": [
+      "Solapur"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 17.66,
+    "lon": 75.9,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Logistics hub for textiles and sugar",
+    "parent_city": "Solapur",
+    "region": "Maharashtra",
+    "connections": []
+  },
+  {
+    "id": "RAIL-NASHIK",
+    "display_name": "Nashik Freight Hub",
+    "aliases": [
+      "Nashik"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 20.0,
+    "lon": 73.8,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Rail gateway for Northern Maharashtra industrial belt",
+    "parent_city": "Nashik",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AURANGABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KALYAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-CHAKAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHIWANDI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TALOJA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-AURANGABAD",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HINJEWADI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-KALYAN",
+    "display_name": "Kalyan Rail Junction",
+    "aliases": [
+      "Kalyan"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 19.24,
+    "lon": 73.13,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Critical rail gateway for the Mumbai Metropolitan Region",
+    "parent_city": "Kalyan",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-CHAKAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHIWANDI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TALOJA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HINJEWADI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-CHAKAN",
+    "display_name": "Chakan Manufacturing Zone",
+    "aliases": [
+      "Chakan"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 18.75,
+    "lon": 73.85,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Automotive manufacturing heart",
+    "parent_city": "Chakan",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "AIR-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-JAIGAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KALYAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHIWANDI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TALOJA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HINJEWADI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-BHIWANDI",
+    "display_name": "Bhiwandi Warehousing Belt",
+    "aliases": [
+      "Bhiwandi"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 19.29,
+    "lon": 73.06,
+    "country": "India",
+    "importance": 9,
+    "strategic_role": "India's premier logistics cluster",
+    "parent_city": "Bhiwandi",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KALYAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-CHAKAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TALOJA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HINJEWADI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-TALOJA",
+    "display_name": "Taloja Industrial Estate",
+    "aliases": [
+      "Taloja"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 19.06,
+    "lon": 73.12,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Chemical and engineering manufacturing hub",
+    "parent_city": "Navi Mumbai",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KALYAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-CHAKAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHIWANDI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HINJEWADI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-BUTIBORI",
+    "display_name": "Butibori Industrial Hub",
+    "aliases": [
+      "Butibori"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 20.92,
+    "lon": 78.94,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Textile and chemical cluster near Nagpur",
+    "parent_city": "Nagpur",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "AIR-NAGPUR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NAGPUR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-AURANGABAD",
+    "display_name": "Aurangabad Industrial City",
+    "aliases": [
+      "Aurangabad"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 19.92,
+    "lon": 75.47,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Strategic node on DMIC corridor",
+    "parent_city": "Aurangabad",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "AIR-AURANGABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BHUSAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-NASHIK",
+    "display_name": "Satpur-Ambad Industrial Hub",
+    "aliases": [
+      "Satpur-Ambad"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 19.95,
+    "lon": 73.7,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Engineering and auto manufacturing hub",
+    "parent_city": "Nashik",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "PORT-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MAGDALLA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SURAT",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VAPI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HAZIRA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AURANGABAD",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KALYAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-CHAKAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHIWANDI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TALOJA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HINJEWADI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-HINJEWADI",
+    "display_name": "Hinjewadi Tech-Logistics Hub",
+    "aliases": [
+      "Hinjewadi"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 18.59,
+    "lon": 73.73,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Technology and high-value manufacturing cluster",
+    "parent_city": "Pune",
+    "region": "Maharashtra",
+    "connections": [
+      {
+        "to": "AIR-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-JAIGAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-PUNE",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KALYAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-CHAKAN",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BHIWANDI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TALOJA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NASHIK",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "road"
+      },
+      {
+        "to": "HUB-MUMBAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-ENNORE",
+    "display_name": "Kamarajar Port (Ennore)",
+    "aliases": [
+      "Kamarajar"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 13.25,
+    "lon": 80.34,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Auto export and coal gateway",
+    "parent_city": "Chennai",
+    "region": "Tamil Nadu",
+    "connections": [
+      {
+        "to": "PORT-NEWMANGALORE",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-KATTUPALLI",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-KRISHNAPATNAM",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-ARAKKONAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRIPERUMBUDUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRICITY",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM-2",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VALLAM",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-KATTUPALLI",
+    "display_name": "Port of Kattupalli",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 13.31,
+    "lon": 80.35,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Container gateway for North Chennai",
+    "parent_city": "Chennai",
+    "region": "Tamil Nadu",
+    "connections": [
+      {
+        "to": "PORT-ENNORE",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-KRISHNAPATNAM",
+        "mode": "sea"
+      },
+      {
+        "to": "RAIL-ARAKKONAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRIPERUMBUDUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRICITY",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM-2",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VALLAM",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-TUTICORIN",
+    "display_name": "V.O.C. Port (Tuticorin)",
+    "aliases": [
+      "V.O.C."
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 8.75,
+    "lon": 78.19,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Strategic gateway for Southern TN",
+    "parent_city": "Tuticorin",
+    "region": "Tamil Nadu",
+    "connections": [
+      {
+        "to": "PORT-COLOMBO",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-NEWMANGALORE",
+        "mode": "sea"
+      },
+      {
+        "to": "AIR-MADURAI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KOCHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KOCHI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KOCHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-NEWMANGALORE",
+    "display_name": "New Mangalore Port",
+    "aliases": [
+      "New"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 12.92,
+    "lon": 74.82,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Major petroleum/bulk gateway",
+    "parent_city": "Mangalore",
+    "region": "Karnataka",
+    "connections": [
+      {
+        "to": "PORT-TUTICORIN",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-ENNORE",
+        "mode": "sea"
+      },
+      {
+        "to": "AIR-MANGALORE",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-KARWAR",
+    "display_name": "Port of Karwar",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 14.81,
+    "lon": 74.12,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Strategic maritime hub for North Karnataka",
+    "parent_city": "Karwar",
+    "region": "Karnataka",
+    "connections": [
+      {
+        "to": "PORT-KRISHNAPATNAM",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-RATNAGIRI",
+        "mode": "sea"
+      },
+      {
+        "to": "RAIL-HUBBALLI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BELAGAVI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-VISAKHAPATNAM",
+    "display_name": "Port of Visakhapatnam",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 17.69,
+    "lon": 83.28,
+    "country": "India",
+    "importance": 9,
+    "strategic_role": "Deep-water mineral and bulk gateway",
+    "parent_city": "Vizag",
+    "region": "Andhra Pradesh",
+    "connections": [
+      {
+        "to": "PORT-GANGAVARAM",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "sea"
+      },
+      {
+        "to": "AIR-VIZAG",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-KRISHNAPATNAM",
+    "display_name": "Port of Krishnapatnam",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 14.25,
+    "lon": 80.12,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Major private gateway for Andhra",
+    "parent_city": "Nellore",
+    "region": "Andhra Pradesh",
+    "connections": [
+      {
+        "to": "PORT-KATTUPALLI",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-KARWAR",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-ENNORE",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-ARAKKONAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRIPERUMBUDUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRICITY",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM-2",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VALLAM",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-GANGAVARAM",
+    "display_name": "Port of Gangavaram",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 17.62,
+    "lon": 83.23,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Strategic industrial port for East Coast",
+    "parent_city": "Vizag",
+    "region": "Andhra Pradesh",
+    "connections": [
+      {
+        "to": "PORT-JAIGAD",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-VISAKHAPATNAM",
+        "mode": "sea"
+      },
+      {
+        "to": "AIR-VIZAG",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-HYDERABAD",
+    "display_name": "GMR Hyderabad Air Cargo",
+    "aliases": [
+      "GMR"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 17.24,
+    "lon": 78.43,
+    "country": "India",
+    "importance": 9,
+    "strategic_role": "Pharma-capital of India",
+    "parent_city": "Hyderabad",
+    "region": "Telangana",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-PUNE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-NAGPUR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AURANGABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-COIMBATORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-MADURAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-TRICHY",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VIZAG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VIJAYAWADA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-MANGALORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-LUCKNOW",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-JAIPUR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHANDIGARH",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AMRITSAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VARANASI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-GUWAHATI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-INDORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHUBANESWAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "RAIL-HYDERABAD",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HYDERABAD",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-BENGALURU",
+    "display_name": "KIA Bengaluru Cargo Hub",
+    "aliases": [
+      "KIA"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 13.2,
+    "lon": 77.71,
+    "country": "India",
+    "importance": 9,
+    "strategic_role": "Electronics and tech cargo gateway",
+    "parent_city": "Bengaluru",
+    "region": "Karnataka",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-PUNE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-NAGPUR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AURANGABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-COIMBATORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-MADURAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-TRICHY",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VIZAG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VIJAYAWADA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-MANGALORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-LUCKNOW",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-JAIPUR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHANDIGARH",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AMRITSAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VARANASI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-GUWAHATI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-INDORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHUBANESWAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "RAIL-BENGALURU",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SALEM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HOSUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BOMMASANDRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-PEENYA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-COIMBATORE",
+    "display_name": "Coimbatore Cargo Terminal",
+    "aliases": [
+      "Coimbatore"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 11.03,
+    "lon": 77.04,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Export hub for engineering/textiles",
+    "parent_city": "Coimbatore",
+    "region": "Tamil Nadu",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-MADURAI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SALEM",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KOCHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KOCHI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KOCHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-MADURAI",
+    "display_name": "Madurai Air Cargo Hub",
+    "aliases": [
+      "Madurai"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 9.83,
+    "lon": 78.09,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Logistics gateway for Southern TN",
+    "parent_city": "Madurai",
+    "region": "Tamil Nadu",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "PORT-TUTICORIN",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-COIMBATORE",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-TRICHY",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KOCHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KOCHI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KOCHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-TRICHY",
+    "display_name": "Tiruchirappalli Cargo Hub",
+    "aliases": [
+      "Tiruchirappalli"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 10.76,
+    "lon": 78.71,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Air gateway for Delta industrial belt",
+    "parent_city": "Trichy",
+    "region": "Tamil Nadu",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-MADURAI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SALEM",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KOCHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KOCHI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KOCHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-VIZAG",
+    "display_name": "Visakhapatnam Air Cargo",
+    "aliases": [
+      "Visakhapatnam"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 17.72,
+    "lon": 83.22,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Strategic gateway for East Coast pharma",
+    "parent_city": "Vizag",
+    "region": "Andhra Pradesh",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "PORT-VISAKHAPATNAM",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-GANGAVARAM",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-VIJAYAWADA",
+    "display_name": "Vijayawada Air Hub",
+    "aliases": [
+      "Vijayawada"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 16.53,
+    "lon": 80.79,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Regional air link for Andhra industrial belt",
+    "parent_city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "RAIL-VIJAYAWADA",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-MANGALORE",
+    "display_name": "Mangalore Air Cargo Hub",
+    "aliases": [
+      "Mangalore"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 12.96,
+    "lon": 74.89,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Coastal air gateway for Karnataka",
+    "parent_city": "Mangalore",
+    "region": "Karnataka",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "PORT-NEWMANGALORE",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-VIJAYAWADA",
+    "display_name": "Vijayawada Rail Junction",
+    "aliases": [
+      "Vijayawada"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 16.51,
+    "lon": 80.62,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Critical North-South rail gateway",
+    "parent_city": "Vijayawada",
+    "region": "Andhra Pradesh",
+    "connections": [
+      {
+        "to": "RAIL-HYDERABAD",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-CHENNAI",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-VISAKHAPATNAM",
+        "mode": "rail"
+      },
+      {
+        "to": "AIR-VIJAYAWADA",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-BENGALURU",
+    "display_name": "Bengaluru Logistics Terminal",
+    "aliases": [
+      "Bengaluru"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 12.97,
+    "lon": 77.59,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Tech-logistics rail gateway",
+    "parent_city": "Bengaluru",
+    "region": "Karnataka",
+    "connections": [
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SALEM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HOSUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BOMMASANDRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-PEENYA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-HYDERABAD",
+    "display_name": "Hyderabad Freight Terminal",
+    "aliases": [
+      "Hyderabad"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 17.38,
+    "lon": 78.48,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "South-Central rail logistics hub",
+    "parent_city": "Hyderabad",
+    "region": "Telangana",
+    "connections": [
+      {
+        "to": "RAIL-VIJAYAWADA",
+        "mode": "rail"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HYDERABAD",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-SALEM",
+    "display_name": "Salem Rail Junction",
+    "aliases": [
+      "Salem"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 11.66,
+    "lon": 78.11,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Critical steel and mineral rail gateway",
+    "parent_city": "Salem",
+    "region": "Tamil Nadu",
+    "connections": [
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-COIMBATORE",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-TRICHY",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BENGALURU",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HOSUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BOMMASANDRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-PEENYA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KOCHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KOCHI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KOCHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-HUBBALLI",
+    "display_name": "Hubballi Rail Junction",
+    "aliases": [
+      "Hubballi"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 15.34,
+    "lon": 75.14,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Primary junction for North Karnataka",
+    "parent_city": "Hubballi",
+    "region": "Karnataka",
+    "connections": [
+      {
+        "to": "PORT-KARWAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BELAGAVI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-ARAKKONAM",
+    "display_name": "Arakkonam Rail Junction",
+    "aliases": [
+      "Arakkonam"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 13.08,
+    "lon": 79.66,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Critical rail gateway connecting Chennai to West/North",
+    "parent_city": "Arakkonam",
+    "region": "Tamil Nadu",
+    "connections": [
+      {
+        "to": "PORT-ENNORE",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KATTUPALLI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KRISHNAPATNAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRIPERUMBUDUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRICITY",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM-2",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VALLAM",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-SRIPERUMBUDUR",
+    "display_name": "Sriperumbudur Electronics Belt",
+    "aliases": [
+      "Sriperumbudur"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 12.98,
+    "lon": 79.95,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Electronics/Auto manufacturing capital",
+    "parent_city": "Chennai",
+    "region": "Tamil Nadu",
+    "connections": [
+      {
+        "to": "PORT-ENNORE",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KATTUPALLI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KRISHNAPATNAM",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-ARAKKONAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRICITY",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM-2",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VALLAM",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-HOSUR",
+    "display_name": "Hosur Industrial Belt",
+    "aliases": [
+      "Hosur"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 12.74,
+    "lon": 77.82,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Precision engineering/Auto cluster",
+    "parent_city": "Hosur",
+    "region": "Tamil Nadu",
+    "connections": [
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BENGALURU",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SALEM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BOMMASANDRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-PEENYA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-ORAGADAM",
+    "display_name": "Oragadam Auto Cluster",
+    "aliases": [
+      "Oragadam"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 12.83,
+    "lon": 79.97,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "South Asia's largest auto manufacturing hub",
+    "parent_city": "Chennai",
+    "region": "Tamil Nadu",
+    "connections": [
+      {
+        "to": "PORT-ENNORE",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KATTUPALLI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KRISHNAPATNAM",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-ARAKKONAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRIPERUMBUDUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRICITY",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM-2",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VALLAM",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-SRICITY",
+    "display_name": "Sri City Integrated Hub",
+    "aliases": [
+      "Sri"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 13.55,
+    "lon": 80.03,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Global manufacturing hub for electronics",
+    "parent_city": "Nellore",
+    "region": "Andhra Pradesh",
+    "connections": [
+      {
+        "to": "PORT-ENNORE",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KATTUPALLI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KRISHNAPATNAM",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-ARAKKONAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRIPERUMBUDUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM-2",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VALLAM",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-HYDERABAD",
+    "display_name": "Hyderabad Pharma Cluster",
+    "aliases": [
+      "Hyderabad"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 17.38,
+    "lon": 78.48,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Pharma manufacturing and R&D hub",
+    "parent_city": "Hyderabad",
+    "region": "Telangana",
+    "connections": [
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-HYDERABAD",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-BOMMASANDRA",
+    "display_name": "Bommasandra Industrial Zone",
+    "aliases": [
+      "Bommasandra"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 12.81,
+    "lon": 77.69,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Precision and medical tech cluster",
+    "parent_city": "Bengaluru",
+    "region": "Karnataka",
+    "connections": [
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BENGALURU",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SALEM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HOSUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-PEENYA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-PEENYA",
+    "display_name": "Peenya Industrial Belt",
+    "aliases": [
+      "Peenya"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 13.03,
+    "lon": 77.51,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Major engineering and aerospace cluster",
+    "parent_city": "Bengaluru",
+    "region": "Karnataka",
+    "connections": [
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-BENGALURU",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-SALEM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-HOSUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BOMMASANDRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-BELAGAVI",
+    "display_name": "Belagavi Aerospace Hub",
+    "aliases": [
+      "Belagavi"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 15.85,
+    "lon": 74.5,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Precision machining and aerospace cluster",
+    "parent_city": "Belagavi",
+    "region": "Karnataka",
+    "connections": [
+      {
+        "to": "PORT-KARWAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-HUBBALLI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-ORAGADAM-2",
+    "display_name": "Daimler-Renault Industrial Zone",
+    "aliases": [
+      "Daimler-Renault"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 12.85,
+    "lon": 79.98,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Dedicated automotive export cluster",
+    "parent_city": "Chennai",
+    "region": "Tamil Nadu",
+    "connections": [
+      {
+        "to": "PORT-ENNORE",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KATTUPALLI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KRISHNAPATNAM",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-ARAKKONAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRIPERUMBUDUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRICITY",
+        "mode": "road"
+      },
+      {
+        "to": "DC-VALLAM",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-VALLAM",
+    "display_name": "Vallam Vadagal Manufacturing Hub",
+    "aliases": [
+      "Vallam"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 12.9,
+    "lon": 79.95,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Emerging aerospace and auto manufacturing zone",
+    "parent_city": "Chennai",
+    "region": "Tamil Nadu",
+    "connections": [
+      {
+        "to": "PORT-ENNORE",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KATTUPALLI",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-KRISHNAPATNAM",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-ARAKKONAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRIPERUMBUDUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM",
+        "mode": "road"
+      },
+      {
+        "to": "DC-SRICITY",
+        "mode": "road"
+      },
+      {
+        "to": "DC-ORAGADAM-2",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-CHENNAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-LUCKNOW",
+    "display_name": "Lucknow Cargo Terminal",
+    "aliases": [
+      "Lucknow"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 26.76,
+    "lon": 80.89,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Gateway for Central UP industrial belt",
+    "parent_city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "RAIL-KANPUR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-LUCKNOW",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-JAIPUR",
+    "display_name": "Jaipur Air Cargo Hub",
+    "aliases": [
+      "Jaipur"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 26.82,
+    "lon": 75.81,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Gems and handicrafts export gateway",
+    "parent_city": "Jaipur",
+    "region": "Rajasthan",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "RAIL-KOTA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-REWARI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TAPUKARA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NEEMRANA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-CHANDIGARH",
+    "display_name": "Chandigarh Intl Airport",
+    "aliases": [
+      "Chandigarh"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 30.67,
+    "lon": 76.79,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Pharma gateway for Punjab/Haryana",
+    "parent_city": "Chandigarh",
+    "region": "Chandigarh",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "RAIL-LUDHIANA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-AMRITSAR",
+    "display_name": "Amritsar Air Cargo Hub",
+    "aliases": [
+      "Amritsar"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 31.7,
+    "lon": 74.8,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Export gateway for North Punjab",
+    "parent_city": "Amritsar",
+    "region": "Punjab",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "RAIL-LUDHIANA",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-VARANASI",
+    "display_name": "Varanasi Air Cargo Hub",
+    "aliases": [
+      "Varanasi"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 25.45,
+    "lon": 82.85,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Air gateway for Eastern UP",
+    "parent_city": "Varanasi",
+    "region": "Uttar Pradesh",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "RAIL-MUGHALSARAI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-KANPUR",
+    "display_name": "Kanpur Freight Hub",
+    "aliases": [
+      "Kanpur"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 26.45,
+    "lon": 80.33,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Major logistics node on EDFC",
+    "parent_city": "Kanpur",
+    "region": "Uttar Pradesh",
+    "connections": [
+      {
+        "to": "RAIL-MUGHALSARAI",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-DADRI",
+        "mode": "rail"
+      },
+      {
+        "to": "AIR-LUCKNOW",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-LUCKNOW",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-LUDHIANA",
+    "display_name": "Ludhiana Logistics Hub",
+    "aliases": [
+      "Ludhiana"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 30.9,
+    "lon": 75.86,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Textile logistics capital of India",
+    "parent_city": "Ludhiana",
+    "region": "Punjab",
+    "connections": [
+      {
+        "to": "AIR-CHANDIGARH",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-AMRITSAR",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-MUGHALSARAI",
+    "display_name": "DDU Rail Junction (Mughalsarai)",
+    "aliases": [
+      "DDU"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 25.27,
+    "lon": 83.13,
+    "country": "India",
+    "importance": 10,
+    "strategic_role": "Busiest freight rail junction in India",
+    "parent_city": "Mughalsarai",
+    "region": "Uttar Pradesh",
+    "connections": [
+      {
+        "to": "RAIL-KANPUR",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-VARANASI",
+        "mode": "rail"
+      },
+      {
+        "to": "AIR-VARANASI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-AGRA",
+    "display_name": "Agra Freight Junction",
+    "aliases": [
+      "Agra"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 27.17,
+    "lon": 78.0,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Logistics hub for Western UP",
+    "parent_city": "Agra",
+    "region": "Uttar Pradesh",
+    "connections": [
+      {
+        "to": "RAIL-ITARSI",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-DADRI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-REWARI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GURGAON",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MANESAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TAPUKARA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GREATER-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-KOTA",
+    "display_name": "Kota Rail Hub",
+    "aliases": [
+      "Kota"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 25.21,
+    "lon": 75.86,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Critical industrial junction for Rajasthan",
+    "parent_city": "Kota",
+    "region": "Rajasthan",
+    "connections": [
+      {
+        "to": "AIR-JAIPUR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-DADRI",
+    "display_name": "Dadri ICD Hub",
+    "aliases": [
+      "Dadri"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 28.53,
+    "lon": 77.55,
+    "country": "India",
+    "importance": 9,
+    "strategic_role": "Strategic inland container depot",
+    "parent_city": "Dadri",
+    "region": "Uttar Pradesh",
+    "connections": [
+      {
+        "to": "RAIL-KANPUR",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-REWARI",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-AGRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GURGAON",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MANESAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TAPUKARA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NEEMRANA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KUNDLI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GREATER-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-REWARI",
+    "display_name": "Rewari DFC Junction",
+    "aliases": [
+      "Rewari"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 28.19,
+    "lon": 76.62,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Major crossing of Western DFC and trunk lines",
+    "parent_city": "Rewari",
+    "region": "Haryana",
+    "connections": [
+      {
+        "to": "RAIL-DADRI",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "rail"
+      },
+      {
+        "to": "AIR-JAIPUR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AGRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GURGAON",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MANESAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TAPUKARA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NEEMRANA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KUNDLI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GREATER-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-LUCKNOW",
+    "display_name": "Lucknow Freight Junction",
+    "aliases": [
+      "Lucknow"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 26.85,
+    "lon": 80.94,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Primary rail gateway for Central UP",
+    "parent_city": "Lucknow",
+    "region": "Uttar Pradesh",
+    "connections": [
+      {
+        "to": "AIR-LUCKNOW",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KANPUR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-NOIDA",
+    "display_name": "Noida Electronics Hub",
+    "aliases": [
+      "Noida"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 28.53,
+    "lon": 77.39,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Global smartphone manufacturing hub",
+    "parent_city": "Noida",
+    "region": "Uttar Pradesh",
+    "connections": [
+      {
+        "to": "RAIL-AGRA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DADRI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-REWARI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GURGAON",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MANESAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TAPUKARA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NEEMRANA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KUNDLI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GREATER-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-GURGAON",
+    "display_name": "Gurgaon Manufacturing Belt",
+    "aliases": [
+      "Gurgaon"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 28.46,
+    "lon": 77.03,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Corporate and auto heart of North",
+    "parent_city": "Gurgaon",
+    "region": "Haryana",
+    "connections": [
+      {
+        "to": "RAIL-AGRA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DADRI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-REWARI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MANESAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TAPUKARA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NEEMRANA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KUNDLI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GREATER-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-MANESAR",
+    "display_name": "Manesar Industrial Cluster",
+    "aliases": [
+      "Manesar"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 28.36,
+    "lon": 76.94,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Auto manufacturing and parts hub",
+    "parent_city": "Manesar",
+    "region": "Haryana",
+    "connections": [
+      {
+        "to": "RAIL-AGRA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DADRI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-REWARI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GURGAON",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TAPUKARA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NEEMRANA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KUNDLI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GREATER-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-BAWAL",
+    "display_name": "Bawal Industrial Area",
+    "aliases": [
+      "Bawal"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 28.08,
+    "lon": 76.58,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Auto and electronics cluster",
+    "parent_city": "Bawal",
+    "region": "Haryana",
+    "connections": [
+      {
+        "to": "AIR-JAIPUR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AGRA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DADRI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-REWARI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GURGAON",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MANESAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TAPUKARA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NEEMRANA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KUNDLI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GREATER-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-PANTNAGAR",
+    "display_name": "Pantnagar Industrial Hub",
+    "aliases": [
+      "Pantnagar"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 29.02,
+    "lon": 79.49,
+    "country": "India",
+    "importance": 6,
+    "strategic_role": "Auto and FMCG manufacturing center",
+    "parent_city": "Pantnagar",
+    "region": "Uttarakhand",
+    "connections": [
+      {
+        "to": "AIR-DELHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-TAPUKARA",
+    "display_name": "Tapukara Industrial Hub",
+    "aliases": [
+      "Tapukara"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 28.12,
+    "lon": 76.81,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Automotive manufacturing cluster in Rajasthan",
+    "parent_city": "Bhiwadi",
+    "region": "Rajasthan",
+    "connections": [
+      {
+        "to": "AIR-JAIPUR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-AGRA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DADRI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-REWARI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GURGAON",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MANESAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NEEMRANA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KUNDLI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GREATER-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-NEEMRANA",
+    "display_name": "Neemrana Japanese Zone",
+    "aliases": [
+      "Neemrana"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 28.0,
+    "lon": 76.38,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Strategic manufacturing cluster for Japanese firms",
+    "parent_city": "Neemrana",
+    "region": "Rajasthan",
+    "connections": [
+      {
+        "to": "AIR-JAIPUR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DADRI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-REWARI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GURGAON",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MANESAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TAPUKARA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KUNDLI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GREATER-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-KUNDLI",
+    "display_name": "Kundli Industrial Zone",
+    "aliases": [
+      "Kundli"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 28.87,
+    "lon": 77.11,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Major food processing and manufacturing hub",
+    "parent_city": "Sonipat",
+    "region": "Haryana",
+    "connections": [
+      {
+        "to": "RAIL-DADRI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-REWARI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GURGAON",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MANESAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TAPUKARA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NEEMRANA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GREATER-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-GREATER-NOIDA",
+    "display_name": "Greater Noida Manufacturing Belt",
+    "aliases": [
+      "Greater"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 28.47,
+    "lon": 77.5,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Electronics and high-tech manufacturing capital of North India",
+    "parent_city": "Noida",
+    "region": "Uttar Pradesh",
+    "connections": [
+      {
+        "to": "RAIL-AGRA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DADRI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-REWARI",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NOIDA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-GURGAON",
+        "mode": "road"
+      },
+      {
+        "to": "DC-MANESAR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-BAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "DC-TAPUKARA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-NEEMRANA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-KUNDLI",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-DELHI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-PARADIP",
+    "display_name": "Port of Paradip",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 20.27,
+    "lon": 86.67,
+    "country": "India",
+    "importance": 9,
+    "strategic_role": "Major mineral and energy gateway",
+    "parent_city": "Paradip",
+    "region": "Odisha",
+    "connections": [
+      {
+        "to": "PORT-DHARAMTAR",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-DHAMRA",
+        "mode": "sea"
+      },
+      {
+        "to": "AIR-BHUBANESWAR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-DHAMRA",
+    "display_name": "Port of Dhamra",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 20.82,
+    "lon": 86.91,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Deep-water mineral gateway",
+    "parent_city": "Dhamra",
+    "region": "Odisha",
+    "connections": [
+      {
+        "to": "PORT-PARADIP",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-PIPAVAV",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-HALDIA",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-BHUBANESWAR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KHARAGPUR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-HALDIA",
+    "display_name": "Port of Haldia",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 22.03,
+    "lon": 88.06,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Industrial and bulk gateway for WB",
+    "parent_city": "Haldia",
+    "region": "West Bengal",
+    "connections": [
+      {
+        "to": "PORT-NAVBHAVNAGAR",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-MITHAPUR",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-DHAMRA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KHARAGPUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-DANKUNI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-GUWAHATI",
+    "display_name": "Guwahati Cargo Gateway",
+    "aliases": [
+      "Guwahati"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 26.11,
+    "lon": 91.59,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "NE India's primary air link",
+    "parent_city": "Guwahati",
+    "region": "Assam",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      }
+    ]
+  },
+  {
+    "id": "AIR-INDORE",
+    "display_name": "Indore Intl Airport",
+    "aliases": [
+      "Indore"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 22.72,
+    "lon": 75.8,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Air hub for Central India pharma",
+    "parent_city": "Indore",
+    "region": "Madhya Pradesh",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "DC-PITHAMPUR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-BHUBANESWAR",
+    "display_name": "Bhubaneswar Air Cargo Hub",
+    "aliases": [
+      "Bhubaneswar"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 20.24,
+    "lon": 85.81,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Air gateway for Odisha manufacturing belt",
+    "parent_city": "Bhubaneswar",
+    "region": "Odisha",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "PORT-PARADIP",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-DHAMRA",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-ITARSI",
+    "display_name": "Itarsi Strategic Junction",
+    "aliases": [
+      "Itarsi"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 22.61,
+    "lon": 77.76,
+    "country": "India",
+    "importance": 9,
+    "strategic_role": "India's most critical rail junction",
+    "parent_city": "Itarsi",
+    "region": "Madhya Pradesh",
+    "connections": [
+      {
+        "to": "RAIL-AGRA",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-NAGPUR",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-AHMEDABAD",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-BHOPAL",
+        "mode": "rail"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-BILASPUR",
+    "display_name": "Bilaspur Rail Terminal",
+    "aliases": [
+      "Bilaspur"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 22.08,
+    "lon": 82.15,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Major coal and mineral rail hub",
+    "parent_city": "Bilaspur",
+    "region": "Chhattisgarh",
+    "connections": [
+      {
+        "to": "RAIL-NAGPUR",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-RAIPUR",
+        "mode": "rail"
+      },
+      {
+        "to": "DC-RAIPUR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-RAIPUR",
+    "display_name": "Raipur Freight Junction",
+    "aliases": [
+      "Raipur"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 21.25,
+    "lon": 81.63,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Strategic mineral gateway for Central-East",
+    "parent_city": "Raipur",
+    "region": "Chhattisgarh",
+    "connections": [
+      {
+        "to": "RAIL-BILASPUR",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-JHARSUGUDA",
+        "mode": "rail"
+      },
+      {
+        "to": "DC-RAIPUR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-KHARAGPUR",
+    "display_name": "Kharagpur Rail Hub",
+    "aliases": [
+      "Kharagpur"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 22.33,
+    "lon": 87.32,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Major rail gateway for Eastern India",
+    "parent_city": "Kharagpur",
+    "region": "West Bengal",
+    "connections": [
+      {
+        "to": "RAIL-JHARSUGUDA",
+        "mode": "rail"
+      },
+      {
+        "to": "PORT-DHAMRA",
+        "mode": "road"
+      },
+      {
+        "to": "PORT-HALDIA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-ADRA",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMSHEDPUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-DANKUNI",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-JHARSUGUDA",
+    "display_name": "Jharsuguda Freight Junction",
+    "aliases": [
+      "Jharsuguda"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 21.85,
+    "lon": 84.03,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Rail hub for aluminium corridor",
+    "parent_city": "Jharsuguda",
+    "region": "Odisha",
+    "connections": [
+      {
+        "to": "RAIL-RAIPUR",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-SAMBALPUR",
+        "mode": "rail"
+      },
+      {
+        "to": "RAIL-KHARAGPUR",
+        "mode": "rail"
+      }
+    ]
+  },
+  {
+    "id": "RAIL-ADRA",
+    "display_name": "Adra Rail Junction",
+    "aliases": [
+      "Adra"
+    ],
+    "type": "rail_terminal",
+    "modes": [
+      "road",
+      "rail"
+    ],
+    "lat": 23.49,
+    "lon": 86.67,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Critical rail gateway for the coal and steel belt",
+    "parent_city": "Adra",
+    "region": "West Bengal",
+    "connections": [
+      {
+        "to": "RAIL-KHARAGPUR",
+        "mode": "road"
+      },
+      {
+        "to": "DC-JAMSHEDPUR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-PITHAMPUR",
+    "display_name": "Pithampur Auto Cluster",
+    "aliases": [
+      "Pithampur"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 22.61,
+    "lon": 75.68,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Auto and pharma SEZ",
+    "parent_city": "Indore",
+    "region": "Madhya Pradesh",
+    "connections": [
+      {
+        "to": "RAIL-BHUSAWAL",
+        "mode": "road"
+      },
+      {
+        "to": "AIR-INDORE",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-JAMSHEDPUR",
+    "display_name": "Jamshedpur Steel Hub",
+    "aliases": [
+      "Jamshedpur"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 22.8,
+    "lon": 86.2,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Steel manufacturing capital of India",
+    "parent_city": "Jamshedpur",
+    "region": "Jharkhand",
+    "connections": [
+      {
+        "to": "RAIL-KHARAGPUR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-ADRA",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-RAIPUR",
+    "display_name": "Raipur Logistics Zone",
+    "aliases": [
+      "Raipur"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 21.27,
+    "lon": 81.71,
+    "country": "India",
+    "importance": 7,
+    "strategic_role": "Transit hub for minerals and metals",
+    "parent_city": "Raipur",
+    "region": "Chhattisgarh",
+    "connections": [
+      {
+        "to": "RAIL-BILASPUR",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-RAIPUR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "DC-DANKUNI",
+    "display_name": "Dankuni Logistics Hub",
+    "aliases": [
+      "Dankuni"
+    ],
+    "type": "distribution_hub",
+    "modes": [
+      "road"
+    ],
+    "lat": 22.68,
+    "lon": 88.3,
+    "country": "India",
+    "importance": 8,
+    "strategic_role": "Primary warehousing and distribution center for Greater Kolkata",
+    "parent_city": "Kolkata",
+    "region": "West Bengal",
+    "connections": [
+      {
+        "to": "PORT-HALDIA",
+        "mode": "road"
+      },
+      {
+        "to": "RAIL-KHARAGPUR",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-DOHA",
+    "display_name": "Hamad Intl Cargo Terminal",
+    "aliases": [
+      "Hamad"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 25.27,
+    "lon": 51.61,
+    "country": "International",
+    "importance": 10,
+    "strategic_role": "Global relay hub for Middle East and Europe",
+    "parent_city": "Doha",
+    "region": "Qatar",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-PUNE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-NAGPUR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AURANGABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-COIMBATORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-MADURAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-TRICHY",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VIZAG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VIJAYAWADA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-MANGALORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-LUCKNOW",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-JAIPUR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHANDIGARH",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AMRITSAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VARANASI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-GUWAHATI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-INDORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHUBANESWAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "AIR-HONGKONG",
+    "display_name": "Hong Kong Air Cargo Hub",
+    "aliases": [
+      "Hong"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 22.31,
+    "lon": 113.93,
+    "country": "International",
+    "importance": 10,
+    "strategic_role": "Primary global gateway for East Asian manufacturing",
+    "parent_city": "Hong Kong",
+    "region": "China",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-PUNE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-NAGPUR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AURANGABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-COIMBATORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-MADURAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-TRICHY",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VIZAG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VIJAYAWADA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-MANGALORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-LUCKNOW",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-JAIPUR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHANDIGARH",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AMRITSAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VARANASI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-GUWAHATI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-INDORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHUBANESWAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DUBAI",
+        "mode": "air"
+      }
+    ]
+  },
+  {
+    "id": "AIR-DUBAI",
+    "display_name": "Dubai World Central",
+    "aliases": [
+      "Dubai"
+    ],
+    "type": "airport",
+    "modes": [
+      "air",
+      "road"
+    ],
+    "lat": 24.89,
+    "lon": 55.16,
+    "country": "International",
+    "importance": 10,
+    "strategic_role": "World's largest multi-modal logistics platform",
+    "parent_city": "Dubai",
+    "region": "UAE",
+    "connections": [
+      {
+        "to": "AIR-MUMBAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DELHI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BENGALURU",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HYDERABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHENNAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-DOHA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-HONGKONG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AHMEDABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-SURAT",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VADODARA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-RAJKOT",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHAVNAGAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-JAMNAGAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHUJ",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-PUNE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-NAGPUR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AURANGABAD",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-NASHIK",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-COIMBATORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-MADURAI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-TRICHY",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VIZAG",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VIJAYAWADA",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-MANGALORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-LUCKNOW",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-JAIPUR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-CHANDIGARH",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-AMRITSAR",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-VARANASI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-GUWAHATI",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-INDORE",
+        "mode": "air"
+      },
+      {
+        "to": "AIR-BHUBANESWAR",
+        "mode": "air"
+      }
+    ]
+  },
+  {
+    "id": "PORT-COLOMBO",
+    "display_name": "Port of Colombo",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 6.95,
+    "lon": 79.85,
+    "country": "International",
+    "importance": 9,
+    "strategic_role": "Critical transshipment hub for South Asia",
+    "parent_city": "Colombo",
+    "region": "Sri Lanka",
+    "connections": [
+      {
+        "to": "PORT-SINGAPORE",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-TUTICORIN",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-COLOMBO",
+        "mode": "road"
+      }
+    ]
+  },
+  {
+    "id": "PORT-SINGAPORE",
+    "display_name": "Port of Singapore",
+    "aliases": [
+      "Port"
+    ],
+    "type": "port",
+    "modes": [
+      "road",
+      "sea"
+    ],
+    "lat": 1.26,
+    "lon": 103.83,
+    "country": "International",
+    "importance": 10,
+    "strategic_role": "Global maritime transshipment capital",
+    "parent_city": "Singapore",
+    "region": "Singapore",
+    "connections": [
+      {
+        "to": "PORT-COLOMBO",
+        "mode": "sea"
+      },
+      {
+        "to": "PORT-SINGAPORE",
+        "mode": "road"
+      }
+    ]
+  }
+]
