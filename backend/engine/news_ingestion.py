@@ -3,7 +3,8 @@ import urllib.parse
 import time
 import socket
 from typing import List, Dict
-
+import requests
+ 
 class DynamicNewsIngestor:
     """
     Supplychainer Stage 1: Dynamic News Ingestion.
@@ -42,10 +43,9 @@ class DynamicNewsIngestor:
             encoded_query = urllib.parse.quote(query)
             rss_url = f"https://news.google.com/rss/search?q={encoded_query}&hl=en-US&gl=US&ceid=US:en"
             
-            # Set a hard timeout for the socket
-            socket.setdefaulttimeout(2.0)
-            
-            feed = feedparser.parse(rss_url)
+            resp = requests.get(rss_url, timeout=4.0)
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
             
             if feed.entries:
                 top_headlines = [entry.title for entry in feed.entries[:3]]

@@ -209,6 +209,7 @@ const RouteRecommender = ({ onNavigate }) => {
         {error && <div style={{color: '#ef4444', background: 'rgba(239, 68, 68, 0.1)', padding: '1rem', borderRadius: '8px', border: '1px solid #ef4444'}}>{error}</div>}
 
         <div className="path-grid">
+          <p>Get Route Recommendations</p>
           {recommendations.map((rec, idx) => (
             <div key={idx} className="path-card">
               <div className="card-header">
@@ -266,21 +267,21 @@ const RouteRecommender = ({ onNavigate }) => {
         {recommendations.length > 0 ? (
           <div style={{display: 'flex', flexDirection: 'column', gap: '1rem'}}>
             <div className="audit-trace-box" style={{borderLeft: '4px solid #3b82f6'}}>
-               <div style={{marginBottom: '0.5rem', fontWeight: 700, color: '#f8fafc'}}>Forensic ETA Audit</div>
+               <div style={{marginBottom: '0.5rem', fontWeight: 700, color: '#101010'}}>Forensic ETA Audit</div>
                <div>Transit: {recommendations[0].audit_trace.eta.transit}h</div>
                <div>Transfer: +{recommendations[0].audit_trace.eta.transfer}h</div>
                <div>Scenario Impact: {recommendations[0].audit_trace.eta.scenario > 0 ? `+${recommendations[0].audit_trace.eta.scenario}h` : 'None'}</div>
             </div>
 
             <div className="audit-trace-box" style={{borderLeft: '4px solid #10b981'}}>
-               <div style={{marginBottom: '0.5rem', fontWeight: 700, color: '#f8fafc'}}>Cost Composition</div>
+               <div style={{marginBottom: '0.5rem', fontWeight: 700, color: '#101010'}}>Cost Composition</div>
                <div>Landed Base: ${recommendations[0].audit_trace.cost.transit.toLocaleString()}</div>
                <div>Transfer Fees: ${recommendations[0].audit_trace.cost.transfer.toLocaleString()}</div>
                <div>Risk Premium: ${recommendations[0].audit_trace.cost.scenario.toLocaleString()}</div>
             </div>
 
             <div className="audit-trace-box" style={{borderLeft: '4px solid #f59e0b'}}>
-               <div style={{marginBottom: '0.5rem', fontWeight: 700, color: '#f8fafc'}}>Strategic Truth Anchor</div>
+               <div style={{marginBottom: '0.5rem', fontWeight: 700, color: '#101010'}}>Strategic Truth Anchor</div>
                <div>Verified against Split-Node Forensic Architecture. 0ms co-location miracles detected.</div>
             </div>
           </div>

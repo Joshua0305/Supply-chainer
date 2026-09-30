@@ -154,7 +154,7 @@ class ContrastiveNLPEngine:
             self.model = SentenceTransformer("all-MiniLM-L6-v2")
             self.util = util
             if os.path.exists(NLP_ANCHORS_PATH):
-                anchors = torch.load(NLP_ANCHORS_PATH)
+                anchors = torch.load(NLP_ANCHORS_PATH, map_location=torch.device('cpu'))
                 self.disaster_matrix = anchors["disaster_matrix"]
                 self.safe_matrix = anchors["safe_matrix"]
                 self._ready = True
@@ -182,16 +182,29 @@ class CARFFilter:
     def __init__(self):
         self.relevance_map = {"air": ["airport", "flight", "airspace", "aviation", "sky", "terminal"],
                               "sea": ["port", "vessel", "ship", "canal", "ocean", "maritime", "dock"],
-                              "rail": ["rail", "track", "locomotive", "station"],
+                              "rail": ["rail", "track", "locomotive", "station", "train"],
                               "road": ["highway", "truck", "traffic", "bridge", "road", "delivery"]}
 
     def apply_filter(self, semantic_score: float, news_context: str, transport_mode: str) -> float:
-        if semantic_score <= 0: return 0.0
-        news_words = news_context.lower().split()
-        if transport_mode == "sea" and any(kw in news_words for kw in ["port", "vessel", "canal", "ocean", "maritime"]):
-            if not any(kw in news_words for kw in ["airport", "flight"]): return 0.0
-        if transport_mode == "air" and any(kw in news_words for kw in ["airport", "flight"]):
-            if not any(kw in news_words for kw in ["port", "vessel", "maritime"]): return 0.0
+        if semantic_score <= 0: 
+            return 0.0
+            
+        context_lower = news_context.lower()
+        
+        keywords = {
+            "sea": ["port", "vessel", "canal", "ocean", "maritime"],
+            "air": ["airport", "flight"],
+            "road": ["highway", "truck", "traffic", "bridge"],
+            "rail": ["rail", "track", "locomotive", "station"]
+        }
+        
+        if transport_mode not in keywords:
+            return semantic_score
+
+        has_target_keywords = any(kw in context_lower for kw in keywords[transport_mode])
+        if not has_target_keywords: 
+            return 0.0
+            
         return semantic_score
 
     def max_pool_threats(self, scores: List[float]) -> float:

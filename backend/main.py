@@ -1,4 +1,4 @@
-from fastapi import FastAPI, WebSocket, Query
+from fastapi import FastAPI, WebSocket, Query, WebSocketDisconnect
 from pydantic import BaseModel
 from typing import Optional, List
 import asyncio
@@ -138,8 +138,10 @@ async def websocket_endpoint(websocket: WebSocket):
             }
             await websocket.send_text(json.dumps(state))
             await asyncio.sleep(2.0)
+    except WebSocketDisconnect:
+        print("Client disconnected normally.")
     except Exception as e:
-        print(f"WebSocket closed: {e}")
+        print(f"WebSocket error: {e}")
 
 @app.get("/api/cities")
 def get_cities():
